@@ -25,16 +25,6 @@
 
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/wxomi/wxomi/main/profile-summary-card-output/radical/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
